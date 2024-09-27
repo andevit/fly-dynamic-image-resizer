@@ -1,0 +1,10 @@
+{
+    "name": "andevit/fly-dynamic-image-resizer",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Andrea Pagliarani",
+            "email": "andrea@thetailors.it"
+        }
+    ]
+}
